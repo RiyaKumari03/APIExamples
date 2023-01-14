@@ -1,0 +1,11 @@
+runner\Runner.class
+SerializeDeserialize\test1.class
+resources\APIResources.class
+APIBasics\TestAPIClass.class
+SerializeDeserialize\oAuthTest.class
+stepsDefinition\AddPlaceSteps.class
+APIBasics\ComplexJsonParser.class
+RequestResponseSpec\TestSpecBuilder.class
+resources\Payload.class
+SerializeDeserialize\SerializeTest.class
+APIBasics\DynamicJson.class

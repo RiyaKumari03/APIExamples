@@ -1,0 +1,13 @@
+Pojo\Courses.class
+Pojo\Location.class
+Pojo\AddPlace.class
+Utils\APISpecifications.class
+Pojo\Mobile.class
+POMAPIObject\AddPlace.class
+PayloadBody\CourseResponse.class
+Pojo\WebAutomation.class
+Base\Utility.class
+Pojo\GetCourseMainResponse.class
+POMAPIObject\Location.class
+Pojo\Api.class
+POMAPIPayload\PayloadBuilder.class
